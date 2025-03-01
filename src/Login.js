@@ -34,7 +34,7 @@ import React from "react";
                 
             }
         }
-        window.location.replace("/Home");
+        
         
 
 
