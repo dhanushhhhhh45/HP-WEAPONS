@@ -13,8 +13,9 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 10%;
+    width: 15%;
     height: 30%;
+    padding: 70%;
     flex-direction: column;
     background-color: rgb(255, 255, 255);
     padding: 5%;
