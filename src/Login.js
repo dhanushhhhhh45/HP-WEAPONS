@@ -48,7 +48,7 @@ import React from "react";
         
          <input
          id="user"
-       type="text" name="username" placeholder="Enter user name">
+       type="text" name="username" placeholder="Enter username or email">
             
          </input>
 
