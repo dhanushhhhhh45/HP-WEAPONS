@@ -13,9 +13,10 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 15%;
-    height: 30%;
-    padding: 70%;
+    width: 50vw;
+    height: 50vh;
+
+  
     flex-direction: column;
     background-color: rgb(255, 255, 255);
     padding: 5%;
@@ -27,20 +28,20 @@
 }
 #password{
     margin-bottom: 10%;
-    height: 9%;
-    width: 45%;
+    height: 5%;
+    width: 70%;
 }
 
 #user{
     margin-bottom: 10%;
-    height: 9%;
-    width: 45%;
+    height: 5%;
+    width: 70%;
 }
 
 .bot{
-    size: 30%;
-    height: 10%;
-    width: 40%;
+    size: 40%;
+    height: 5%;
+    width: 30%;
     background-color: green;
 }
 
